@@ -1,0 +1,15 @@
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\bin\Debug\net7.0\PatternDecorator.exe
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\bin\Debug\net7.0\PatternDecorator.deps.json
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\bin\Debug\net7.0\PatternDecorator.runtimeconfig.json
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\bin\Debug\net7.0\PatternDecorator.dll
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\bin\Debug\net7.0\PatternDecorator.pdb
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\PatternDecorator.csproj.AssemblyReference.cache
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\PatternDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\PatternDecorator.AssemblyInfoInputs.cache
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\PatternDecorator.AssemblyInfo.cs
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\PatternDecorator.csproj.CoreCompileInputs.cache
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\PatternDecorator.dll
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\refint\PatternDecorator.dll
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\PatternDecorator.pdb
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\PatternDecorator.genruntimeconfig.cache
+C:\Users\funn1\source\repos\PatternDecorator\PatternDecorator\obj\Debug\net7.0\ref\PatternDecorator.dll
